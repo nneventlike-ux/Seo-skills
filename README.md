@@ -6,7 +6,15 @@
 
 A responsive React storefront with five sample products, details, search, filters, sorting, a shopping bag, and simulated USDT, SOL, and card checkout.
 
+<!-- coderabbit-ai-generated:v1 -->
+
+<!-- coderabbit-ai-generated-section:v1:9c558f59c319401560da24a03e3753779deee31f5294249f8c87effef1cb9093 -->
+
+For the separate Python Telegram demo bot, setup, architecture, and modernization plan, see [bot architecture](docs/bot-architecture.md).
+
 ## Run
+
+<!-- /coderabbit-ai-generated:v1 -->
 
 ```sh
 npm install
